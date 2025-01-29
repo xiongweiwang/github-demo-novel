@@ -1,2 +1,6 @@
 Chapter1
 meet Jordan, Daisy
+
+
+【迷宮の浮遊】
+git log --2025/01/29 17:30 

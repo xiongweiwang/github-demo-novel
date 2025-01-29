@@ -3,3 +3,8 @@ jerry
 pool
 Alice
 Esa
+
+アナと雪の女王
+Frozen
+アナ
+エルサ
